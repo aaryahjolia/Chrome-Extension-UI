@@ -14,6 +14,12 @@ This repository demonstrates how to build a premium-feeling interface for Chrome
 - **Social Media Hub**: Quick-access icons for major social platforms.
 - **Pro Features Preview**: Includes UI elements for a "Pro" subscription upgrade.
 
+## Screenshots
+
+![Screenshot 1](./assets/screenshots/screenshot1.png)
+![Screenshot 2](./assets/screenshots/screenshot2.png)
+![Screenshot 3](./assets/screenshots/screenshot3.png)
+
 ## 📁 Folder Structure
 
 - `assets/`: Contains social media and miscellaneous icons.
