@@ -1,13 +1,30 @@
-# Chrome Extension UI
+# Chrome Extension UI Prototype
 
-I created this Chrome Extension UI as I was bored and created this small Project.
-It is similar as making a Website, but it takes Additional manifest.json file which stores data related to chrome web store that will be used by chrome to identify as extension.
-Also, you can take all the information of user (Not personal info obviously), their cookies, their tabs on chrome with help of manifest.json, But I only created a UI here.
+A sleek and modern prototype for a Chrome Extension user interface. This project focuses on creating a high-quality UI for extension popups, featuring social media block-management, scheduling, and feedback systems.
 
-I've not pulished it as there is a fee to register as a chrome web store developer.
-But you can check out what I made in the link given in description of this repository.
+## 🚀 Overview
 
-PS: If you want to study the code, It will be very challenging. I will suggest creating the same in your code instead ;)
+This repository demonstrates how to build a premium-feeling interface for Chrome Extensions using standard web technologies (HTML, CSS, JS). It includes a `manifest.json` file, making it ready to be loaded into Chrome as an unpacked extension.
 
-Thank you for reading,
-Aarya Ahjolia.
+## ✨ Features
+
+- **Dynamic Navigation**: Switch between Block, Calendar, and Feedback views seamlessly.
+- **Modern Design**: Clean typography (Lato), glassmorphism-inspired elements, and a professional color palette.
+- **Scheduling UI**: intuitive "From/To" time selection and day-of-week repeat settings.
+- **Social Media Hub**: Quick-access icons for major social platforms.
+- **Pro Features Preview**: Includes UI elements for a "Pro" subscription upgrade.
+
+## 📁 Folder Structure
+
+- `assets/`: Contains social media and miscellaneous icons.
+- `css/`: Stylesheets for the extension UI.
+- `js/`: Core logic for tab navigation and interactivity.
+- `index.html`: The main entry point for the extension popup.
+- `manifest.json`: Configuration for the Chrome Extension.
+
+## 🛠️ How to Use
+
+1. Clone this repository.
+2. Open Chrome and navigate to `chrome://extensions/`.
+3. Enable **Developer mode**.
+4. Click **Load unpacked** and select the root directory of this project.
